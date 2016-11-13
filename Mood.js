@@ -16,7 +16,7 @@ var Mood = React.createClass({
   render: function () {
     return (
       <div>
-        <h1>I'm feeling {this.state.mood}!</h1>
+        <h1> feeling {this.state.mood}!</h1>
         <button onClick={this.toggleMood}>
           Click Me
         </button>
