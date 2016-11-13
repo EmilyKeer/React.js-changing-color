@@ -1,2 +1,4 @@
 # React.js-changing-color
-Change the color of the background when clicking the button.
+This is the assignment when learning React.js on Codecademy.
+<br \>
+My note is here: http://keerliu.com/2016/11/13/react-js-note-primary/
